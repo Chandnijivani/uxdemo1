@@ -1,0 +1,7 @@
+{
+    "name":"Nidhi",
+    "age":20,
+    "city":"Ahmedabad",
+    "cars":[ "Ford", "BMW", "Fiat" ]
+    
+}
